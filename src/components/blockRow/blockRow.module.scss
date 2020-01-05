@@ -1,0 +1,11 @@
+.blockRow {
+    display: flex;
+}
+
+
+@media screen and(max-width: 800px) {
+    .blockRow {
+        flex-direction: column;
+        margin: 0 2px;
+    }
+}
