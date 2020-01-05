@@ -1,1 +1,1 @@
-Graphic visualisation of 4 ram allocating algorithms
+Graphic visualisation of file allocation
